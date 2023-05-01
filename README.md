@@ -5,5 +5,4 @@ program. There are no packages in the project and the project's driver is the Ma
 program, please see the Project Document Harrison Huston for more information on the program structure, patterns,
 goals, tests, and outputs.
 
-Harrison Huston
-2023
+Harrison Huston, 2023
